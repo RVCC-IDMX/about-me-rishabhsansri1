@@ -1,0 +1,30 @@
+body {
+    font-family: Gluten;
+    background-color: #3F7EA1;
+    color:#EDB874 ;
+}
+
+ h1,h2,h3,h4,h5,h5,h6 {
+     font-family: Gluten;
+     font-size: 30pt;
+ }
+
+ header {
+     text-align: center;
+ }
+
+ #hero, footer {
+     color:#3422A2 ;
+     border: 2px solid #F62D0F;
+     background-color: #A16F2F;
+     text-align: center;
+     padding: 10px;
+ }
+
+ #hero img {
+     width: 300px;
+ }
+
+ #bio{
+     text-align: center;
+ }
