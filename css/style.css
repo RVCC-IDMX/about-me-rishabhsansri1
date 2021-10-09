@@ -21,17 +21,33 @@ body {
      text-align: center;
      padding: 10px;
  }
-
+ /*hero Section*/
+ 
  #hero img {
      width: 300px;
  }
 
+ /* Bio Section */
+
  #bio{
      text-align: center;
  }
+ /* Hobbies */
+
 #hobbies ul li:nth-child(even) {
 
     color: #F62D0F;
 }
+/* Gallery */
 
+#gallery{
+    border: 2px solid #F62D0F;
+}
 
+#gallery img{
+    max-width: 100%;
+}
+
+#gallery figure{
+    text-align: center;
+}
