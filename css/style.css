@@ -42,6 +42,7 @@ body {
 
 #gallery{
     border: 2px solid #F62D0F;
+    margin-bottom: 2rem;
 }
 
 #gallery img{
@@ -50,4 +51,36 @@ body {
 
 #gallery figure{
     text-align: center;
+}
+
+/* Literature */
+#lit{
+border: 2px solid #F62D0F;
+margin-bottom:2rem;
+
+}
+
+#lit div{
+    padding:3rem;
+    max-width: 50rem;
+    margin:0 auto;
+}
+
+#lit div p{
+    padding: 0.3rem 0;
+    
+}
+#lit div p:first-child:first-letter {
+
+color:#F62D0F;
+float:left;
+font-size:3rem;
+padding:.25rem;
+margin-right:.25rem;
+line-height: .65;
+border:4px outset #3422A2 ;
+border-top-left-radius: .2rem;
+border-bottom-right-radius: .2rem;
+
+
 }
